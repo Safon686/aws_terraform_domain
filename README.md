@@ -5,7 +5,7 @@ This Terraform project creates the following AWS resources:
 - 2 AWS Target Groups
 - AWS Auto Scaling Group (ASG) based on AWS Launch Template
 - Nginx containers running on the instances
-- S3 bucket for syncing index.html
+- S3 bucket for download index.html
 - IAM role for instances to access S3
 
 ## Usage

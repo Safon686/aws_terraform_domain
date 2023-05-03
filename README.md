@@ -12,7 +12,7 @@ This Terraform project creates the following AWS resources:
 
 1. Install Terraform.
 2. Clone this repository.
-3. Run `terraform init`.
+3. Run `terraform init` in aws_terraform_domain/terraform
 4. Run `terraform apply`.
 
 ## AMI /packer

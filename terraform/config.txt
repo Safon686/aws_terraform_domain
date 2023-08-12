@@ -1,3 +1,7 @@
 pwd
 ls -lai
-df -iT
+df -i
+ls
+ls
+df
+T

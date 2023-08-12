@@ -1,7 +1,11 @@
 pwd
-ls -lai
+
 df -i
 ls
-ls
 df
+
+
+121243
+142
+
 T
